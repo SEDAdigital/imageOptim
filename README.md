@@ -19,3 +19,6 @@ Example: Crop image to 100 x 100 pixels
 ```
 [[imageOptim? &input=`[[*myImageTV]]` &options=`100x100,crop`]]
 ```
+
+# API key / username
+In order to use this extra, you need to get a (currently free) api username from: https://imageoptim.com/api/username. Add the username to the `imageoptim.username` system setting.
